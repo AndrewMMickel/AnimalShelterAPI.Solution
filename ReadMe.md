@@ -9,8 +9,9 @@ This program allows users to create and read Animal Portfolios. It is made in a 
 * In the terminal: Navigate to the AnimalAPI folder
 * In terminal run `dotnet ef database update`
 * Run `dotnet restore` in the terminal
-* Run `dotnet run` in the TravelAPI project
-* Open up your browser to the TravelClient projects: `http://localhost:5004`
+* Run `dotnet run` in the AnimalAPI project
+* Run `dotnet run` in the AnimalClient projet
+* Open up your browser to the AnimalClient projects: `http://localhost:5004`
 * To view the Swagger UI click one the link on the Animal Shelter Main page
 * Go to `http://localhost:5000/swagger/v1/swagger.json` to view the Swagger specification
 * Enjoy Reviewing and creating Animals for the shelter
