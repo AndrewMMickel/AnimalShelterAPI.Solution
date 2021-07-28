@@ -5,7 +5,7 @@
 This program allows users to create and read Animal Portfolios. It is made in a two part with the coresponding Animal Shelter Client. This program uses C#, MVC, and a custom Client.
 ### Setup
 * `$git clone https://github.com/AndrewMMickel/AnimalShelterAPI.Solution`
-* and in a new project file do the same for `$git clone https://github.com/AndrewMMickel/AnimalShelterAPI.Solution`
+* and in a new project file do the same for `$git clone https://github.com/AndrewMMickel/AnimalShelterClient.Solution`
 * In the terminal: Navigate to the AnimalAPI folder
 * In terminal run `dotnet ef database update`
 * Run `dotnet restore` in the terminal
